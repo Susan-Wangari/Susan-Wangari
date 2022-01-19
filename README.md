@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Susan Wangari. I am a frontend Developer working my way towards React Js.
 
 
 - 🔭 I’m currently working on React Js projects.
