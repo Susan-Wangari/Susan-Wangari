@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am Susan Wangari. I am a frontend Developer working my way towards React Js.
 
+[![Wangari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Susan-Wangari)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on React Js projects.
 - 🌱 I’m currently learning React Js.
