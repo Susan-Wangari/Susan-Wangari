@@ -12,10 +12,8 @@ Skills:
 +BOOTSTRAP
 
 Let's connect
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Susan-Wangari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@Codergirl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/susan-wangari//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@coder_muchacha)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Susan-Wangari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@Codergirl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/susan-wangari//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@coder_muchacha) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Susan-Wangari&show_icons=true&theme=radical)
-[![Wangari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Susan-Wangari)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 - 🔭 I’m currently working on React Js projects.
 - 🌱 I’m currently learning React Js.
@@ -24,3 +22,4 @@ Let's connect
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love crotchet 
 
+![Wangari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Susan-Wangari&show_icons=true&theme=radical)
