@@ -6,7 +6,8 @@ I am a knowledgeable front-end developer adept at creating successful websites t
 
 Skills:  REACT / JS / HTML / CSS / BOOTSTRAP
 
-- 🔭 I’m currently working on this page. 
+Let's connect
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Susan-Wangari)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@Codergirl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/susan-wangari//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@coder_muchacha)  
 
 
 [![Wangari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Susan-Wangari)](https://github.com/anuraghazra/github-readme-stats)
