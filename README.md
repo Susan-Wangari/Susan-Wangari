@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am Susan Wangari. I am a knowledgeable front-end developer adept at creating successful websites that meet customer needs. Specializing in collaborating with customers to gather requirements, produce plans and improve plans for usability and functionality. Fully proficient in HTML5, CSS3, Bootstrap and React JS.
-
+I am Susan Wangari. I am a  front-end developer from Kenya
 
 - 🔭 I’m currently working on React Js projects.
 - 🌱 I’m currently learning React Js.
