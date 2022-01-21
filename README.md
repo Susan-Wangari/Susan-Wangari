@@ -1,7 +1,6 @@
 ### Hi there 👋
 I am Susan Wangari. I am a knowledgeable front-end developer adept at creating successful websites that meet customer needs. Specializing in collaborating with customers to gather requirements, produce plans and improve plans for usability and functionality. Fully proficient in HTML5, CSS3, Bootstrap and React JS.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Susan-Wangari)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on React Js projects.
 - 🌱 I’m currently learning React Js.
@@ -9,6 +8,8 @@ I am Susan Wangari. I am a knowledgeable front-end developer adept at creating s
 - 💬 Ask me about tech communities.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love crotchet 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Susan-Wangari)](https://github.com/ryo-ma/github-profile-trophy)
 
 Skills:  
 -REACT 
