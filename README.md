@@ -5,8 +5,6 @@ I am Susan Wangari. I am a  front-end developer from Kenya
 - 🌱 I’m currently learning React Js.
 - 🤔 I’m looking for help with React Js resources.
 - 💬 Ask me about tech communities.
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I love crotchet 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Susan-Wangari)](https://github.com/ryo-ma/github-profile-trophy)
 
