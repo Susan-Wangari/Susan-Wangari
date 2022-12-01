@@ -1,9 +1,9 @@
 ### Hi there 👋
-I am Susan Wangari. I am a  front-end developer from Kenya
+I am Susan Wangari. I am a  full-stack developer from Kenya
 
 - 🔭 I’m currently working on React Js projects.
-- 🌱 I’m currently learning React Js.
-- 🤔 I’m looking for help with React Js resources.
+- 🌱 I’m currently learning React Js and PHP Laravel.
+- 🤔 I’m looking for help with React Js and PHP resources.
 - 💬 Ask me about tech communities.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Susan-Wangari)](https://github.com/ryo-ma/github-profile-trophy)
